@@ -28,6 +28,12 @@ $ ./mvnw spring-boot:run
 
 ### H2
 Console URL : [H2](http://localhost:8081/database/h2)
-Note: If you change server port in properties you need change H2 url port.
+
+### Swagger
+
+Docs URL: [Swagger](http://localhost:8081/swagger-ui.html#/)
+
+Note: If you change server port in properties you need change port in both urls.
+
 
 
