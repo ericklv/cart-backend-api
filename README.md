@@ -2,7 +2,7 @@
 
 ## About
 
-This is a demo project using Spring Boot and Java 17. You need an IDE with Lombok support.
+This is a demo project using Spring Boot and Java 17 with cache ena. You need an IDE with Lombok support. TTL is enabled as bean in principal class and time has been configurated in properties.
 
 ## Configuration
 
